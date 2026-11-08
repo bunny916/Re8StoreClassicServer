@@ -1,0 +1,19 @@
+﻿{
+    "description":  "Windows 8.1 Modern Store restoration project - Release 13 Update 1.",
+    "ratingsCount":  "15,000",
+    "mainStars":  5,
+    "category":  "Store Revival",
+    "displayname":  "Rework Store (Release 13 Update 1)",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r13_update1.png",
+    "deployment":  {
+                       "filesize":  "2.00 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r13_update1.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease13Update1.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease13Update1.appx",
+    "app_identity":  {
+                         "publisher":  "CN=Ibrahim",
+                         "description":  "Windows 8.1 Modern Store restoration project - Release 13 Update 1.",
+                         "displayname":  "Rework Store (Release 13 Update 1)"
+                     }
+}

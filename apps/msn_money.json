@@ -1,9 +1,9 @@
-{
+﻿{
     "description":  "Financial markets, personal finance tips, real-time stock quotes, currency calculators, and portfolio tracking.",
     "ratingsCount":  "52,000",
     "mainStars":  5,
     "category":  "Finance",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Money_Retiled.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_money.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
                          "description":  "Financial markets, personal finance tips, real-time stock quotes, currency calculators, and portfolio tracking.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "5.61 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Money_Retiled.png",
-                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Money_Retiled.appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_money.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingFinance_3.0.0.693_x64__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Money_Retiled.appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingFinance_3.0.0.693_x64__8wekyb3d8bbwe.appx",
     "displayname":  "MSN Money"
 }

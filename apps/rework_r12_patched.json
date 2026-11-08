@@ -1,0 +1,19 @@
+﻿{
+    "description":  "Windows 8.1 Modern Store restoration project - Release 12 Patched.",
+    "ratingsCount":  "18,000",
+    "mainStars":  5,
+    "category":  "Store Revival",
+    "displayname":  "Rework Store (Release 12 Patched)",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+    "deployment":  {
+                       "filesize":  "1.46 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease12_Patched.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease12_Patched.appx",
+    "app_identity":  {
+                         "publisher":  "CN=Ibrahim",
+                         "description":  "Windows 8.1 Modern Store restoration project - Release 12 Patched.",
+                         "displayname":  "Rework Store (Release 12 Patched)"
+                     }
+}
