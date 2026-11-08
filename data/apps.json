@@ -108,24 +108,6 @@
         "file_path":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingNews_3.0.0.693_x64__8wekyb3d8bbwe.appx"
     },
     {
-        "Id":  "re8store",
-        "Name":  "Re8Store Platform",
-        "Publisher":  "Ibrahim",
-        "Version":  "1.0.0.0",
-        "DownloadUrl":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/WinStore_1.0.1.3_AnyCPU.appx",
-        "IconUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/re8store.png",
-        "Description":  "Official Re8Store client by Ibrahim. Browse, download, and install real Windows 8.1 AppX packages.",
-        "Featured":  false,
-        "Type":  "App",
-        "Category":  "Utilities",
-        "Screenshot1":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/re8store.png",
-        "Screenshot2":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/re8store.png",
-        "Screenshot3":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/re8store.png",
-        "staffPick":  false,
-        "icon_path":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/re8store.png",
-        "file_path":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/WinStore_1.0.1.3_AnyCPU.appx"
-    },
-    {
         "Id":  "ws_rework",
         "Name":  "Project WS-Rework",
         "Publisher":  "w_8.1 and ReOp3n",
