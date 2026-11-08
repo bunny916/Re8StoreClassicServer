@@ -1,0 +1,11 @@
+﻿{
+    "url":  "https://bunny916.github.io/Re8StoreClassicServer/updates/update.appx",
+    "DownloadUrl":  "https://bunny916.github.io/Re8StoreClassicServer/updates/update.appx",
+    "ForceUpdate":  false,
+    "version":  "6.1.0.4",
+    "LatestVersion":  "6.1.0.4",
+    "mandatory":  false,
+    "ReleaseNotes":  "8Store Patched v6.1.0.4: Live Re8StoreClassicServer endpoints.",
+    "MinimumSupportedVersion":  "1.0.0.0",
+    "changelog":  "8Store Patched v6.1.0.4: Live Re8StoreClassicServer endpoints."
+}
