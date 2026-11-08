@@ -1,19 +1,27 @@
-{
-    "description":  "Read millions of eBooks, magazines, and textbooks with customizable font sizes, night mode, and whispersync.",
-    "ratingsCount":  "185,000",
-    "mainStars":  5,
-    "category":  "Shopping \u0026 Books",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/kindle.png",
-    "app_identity":  {
-                         "publisher":  "AMZN Mobile LLC",
-                         "description":  "Read millions of eBooks, magazines, and textbooks with customizable font sizes, night mode, and whispersync.",
-                         "displayname":  "Amazon Kindle"
-                     },
-    "deployment":  {
-                       "filesize":  "1.82 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/kindle.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/apps/store_ext_AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
-                   },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/apps/store_ext_AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx",
-    "displayname":  "Amazon Kindle"
+﻿{
+    "displayname" : "Kindle for Windows 8",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Amazon Inc",
+    "copyright": "© 2012 Amazon Inc. All rights reserved.",
+    "description": "Carry thousands of books in the palm of your hand. The Kindle app is reimagined for Windows 8, providing a beautiful, easy-to-use interface that turns your tablet or PC into a powerful e-reader. Whether you are catching up on a bestseller during your commute or studying a textbook at your desk, Kindle for Windows 8 offers a seamless and immersive reading experience.",
+    "mainStars": "3",
+    "ratingNumber": "3.6",
+    "ratingsCount": "54",
+    "size": "1.84 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://bunny916.github.io/Re8StoreClassicServer/images/kindle.png",
+    "pageimg1": "https://bunny916.github.io/Re8StoreClassicServer/images/kindleimg1.png",
+    "pageimg2": "https://bunny916.github.io/Re8StoreClassicServer/images/kindleimg2.PNG",
+    "pageimg3": "https://bunny916.github.io/Re8StoreClassicServer/images/kindleimg3.PNG",
+    "downloadUri" : "https://bunny916.github.io/Re8StoreClassicServer/appxs/AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
+
 }
+
+
+
+
+
+
+
+

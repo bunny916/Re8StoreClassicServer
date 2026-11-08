@@ -1,19 +1,27 @@
-{
-    "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
-    "ratingsCount":  "210,000",
-    "mainStars":  4,
-    "category":  "Shopping",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/ebay.png",
-    "app_identity":  {
-                         "publisher":  "eBay, Inc",
-                         "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
-                         "displayname":  "eBay for Windows 8"
-                     },
-    "deployment":  {
-                       "filesize":  "2.04 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/ebay.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip"
-                   },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip",
-    "displayname":  "eBay for Windows 8"
+﻿{
+    "displayname" : "eBay",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "eBay Inc",
+    "copyright": "© 2017 eBay Inc. All rights reserved.",
+    "description": "Buy, sell, and browse millions of items with a flick of your finger. The eBay app for Windows 8 brings the power of the world’s largest online marketplace directly to your Start Screen. Reimagined for a touch-first world, the app replaces cluttered lists with a beautiful, high-resolution grid of products. Whether you are hunting for a rare collectible or selling your old gadgets, the eBay app makes the process faster and more visual than ever before.",
+    "mainStars": "2",
+    "ratingNumber": "2.0",
+    "ratingsCount": "10",
+    "size": "2.77 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://bunny916.github.io/Re8StoreClassicServer/images/ebay.png",
+    "pageimg1": "https://bunny916.github.io/Re8StoreClassicServer/images/ebayimg1.png",
+    "pageimg2": "https://bunny916.github.io/Re8StoreClassicServer/images/ebayimg2.png",
+    "pageimg3": "https://bunny916.github.io/Re8StoreClassicServer/images/ebayimg3.png",
+    "downloadUri" : "https://bunny916.github.io/Re8StoreClassicServer/appxs/eBayInc.eBay_1.3.2.60_neutral__1618n3s9xq8tw.appx"
+
 }
+
+
+
+
+
+
+
+
