@@ -1,9 +1,9 @@
-{
+﻿{
     "description":  "Destination guides, 360-degree panoramic photos, flight status trackers, and hotel recommendations.",
     "ratingsCount":  "42,000",
     "mainStars":  5,
     "category":  "Travel",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Travel_Retiled.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_travel.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
                          "description":  "Destination guides, 360-degree panoramic photos, flight status trackers, and hotel recommendations.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "30.7 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Travel_Retiled.png",
-                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Travel_Retiled.appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_travel.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingTravel_3.0.0.694_x64__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Travel_Retiled.appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingTravel_3.0.0.694_x64__8wekyb3d8bbwe.appx",
     "displayname":  "MSN Travel"
 }

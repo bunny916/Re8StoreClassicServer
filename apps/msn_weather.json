@@ -1,9 +1,9 @@
-{
+﻿{
     "description":  "Up-to-date weather conditions, hourly forecasts, 10-day trends, interactive radar maps, and historical averages.",
     "ratingsCount":  "98,000",
     "mainStars":  5,
     "category":  "News \u0026 Weather",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Weather_Retiled.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_weather.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
                          "description":  "Up-to-date weather conditions, hourly forecasts, 10-day trends, interactive radar maps, and historical averages.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "19.58 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/MSN_Weather_Retiled.png",
-                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Weather_Retiled.appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/msn_weather.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingWeather_3.0.0.693_x64__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Weather_Retiled.appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Microsoft.BingWeather_3.0.0.693_x64__8wekyb3d8bbwe.appx",
     "displayname":  "MSN Weather"
 }

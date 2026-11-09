@@ -1,53 +1,78 @@
 ﻿{
-    "squareTile":  {
-                       "2":  {
-                                 "title":  "Microsoft Mahjong",
-                                 "description":  "Classic tile matching",
-                                 "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/mahjong.png"
-                             },
-                       "1":  {
-                                 "title":  "Skype",
-                                 "description":  "Free video calling and chat",
-                                 "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/skype.png"
-                             },
-                       "0":  {
-                                 "title":  "Game Studio Tycoon 3",
-                                 "description":  "Build your game empire!",
-                                 "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/game_studio_tycoon_3.png"
-                             }
-                   },
-    "wideTile":  {
-                     "2":  {
-                               "title":  "Microsoft Mahjong",
-                               "description":  "Classic tile matching",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/mahjong.png"
-                           },
-                     "1":  {
-                               "title":  "Skype",
-                               "description":  "Free video calling and chat",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/skype.png"
-                           },
-                     "0":  {
-                               "title":  "Game Studio Tycoon 3",
-                               "description":  "Build your game empire!",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/game_studio_tycoon_3.png"
-                           }
-                 },
-    "hugeTile":  {
-                     "2":  {
-                               "title":  "Microsoft Mahjong",
-                               "description":  "Classic tile matching",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/mahjong.png"
-                           },
-                     "1":  {
-                               "title":  "Skype",
-                               "description":  "Free video calling and chat",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/skype.png"
-                           },
-                     "0":  {
-                               "title":  "Game Studio Tycoon 3",
-                               "description":  "Build your game empire!",
-                               "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/game_studio_tycoon_3.png"
-                           }
-                 }
+    "squareTile": {
+        "app1": {
+            "title": "YouTube",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/logo/d64492da5a64b4d8.png"
+        },
+        "app2": {
+            "title": "Social Network Explorer",
+            "imgUrl": "https://i.ibb.co/XkLh7WDF/fakefacebook.png"
+        },
+        "app3": {
+            "title": "Windows Alarms Beta",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1524795006232170761/logo/4158d6f0db225229.png"
+        },
+        "app4": {
+            "title": "ivi.ru",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/2bbab96fcc9f8470.png"
+        },
+        "app5": {
+            "title": "Bookviser Reader",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/412693753527009283/logo/6e0791d0f335b0c9.png"
+        }
+    },
+    "wideTile": {
+        "app1": {
+            "title": "YouTube",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/logo/d64492da5a64b4d8.png",
+            "description": "See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more."
+        },
+        "app2": {
+            "title": "Social Network Explorer",
+            "imgUrl": "https://i.ibb.co/XkLh7WDF/fakefacebook.png",
+            "description": "Social Network Explorer is a simple, fast and comprehensive client"
+        },
+        "app3": {
+            "title": "Windows Alarms Beta",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1524795006232170761/logo/4158d6f0db225229.png",
+            "description": "A simple yet beautiful and multi-functional timing app that comes with alarms, countdown timers, and a stopwatch."
+        },
+        "app4": {
+            "title": "ivi.ru",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/2bbab96fcc9f8470.png",
+            "description": "Enjoy your favorite movies, TV series, programs, and cartoons right on your device's screen."
+        },
+        "app5": {
+            "title": "Bookviser Reader",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/412693753527009283/logo/6e0791d0f335b0c9.png",
+            "description": "PDF, EPUB and more formats book reader"
+        }
+    },
+    "hugeTile": {
+        "app1": {
+            "title": "YouTube",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/logo/d64492da5a64b4d8.png",
+            "description": "See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more."
+        },
+        "app2": {
+            "title": "Social Network Explorer",
+            "imgUrl": "https://i.ibb.co/XkLh7WDF/fakefacebook.png",
+            "description": "Social Network Explorer is a simple, fast and comprehensive client"
+        },
+        "app3": {
+            "title": "Windows Alarms Beta",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1524795006232170761/logo/4158d6f0db225229.png",
+            "description": "A simple yet beautiful and multi-functional timing app that comes with alarms, countdown timers, and a stopwatch. Use it to set wake up alarms and reminders, to time sporting events, and to keep track of time whenever you need to."
+        },
+        "app4": {
+            "title": "ivi.ru",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/2bbab96fcc9f8470.png",
+            "description": "Enjoy your favorite movies, TV series, programs, and cartoons right on your device's screen."
+        },
+        "app5": {
+            "title": "Bookviser Reader",
+            "imgUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/412693753527009283/logo/6e0791d0f335b0c9.png",
+            "description": "PDF, EPUB and more formats book reader"
+        }
+    }
 }
