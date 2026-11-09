@@ -198,24 +198,6 @@
         "file_path":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/28551Alfredtech.DogeDodge_1.0.0.0_neutral__nvqy9j420z7zy.appx"
     },
     {
-        "Id":  "peppapigmemorygame",
-        "Name":  "Peppa Pig Memory Game",
-        "Publisher":  "Damicolo",
-        "Version":  "1.0.0.0",
-        "DownloadUrl":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/65327Damicolo.PeppaPigMemoryGame_1.0.0.3_neutral__3fzfqdacad5k6.appx",
-        "IconUrl":  "https://bunny916.github.io/Re8StoreClassicServer/images/peppapigmemorygame.png",
-        "Description":  "Join Peppa and her friends for a fun-filled memory adventure. Specifically designed for little piggies and their families, the Peppa Pig Memory Game brings the colorful world of the hit show to your Windows 8 device. This charming, educational game helps children develop concentration and cognitive skills through a series of engaging matching challenges featuring all their favorite characters.",
-        "Featured":  false,
-        "Type":  "Game",
-        "Category":  "Games",
-        "Screenshot1":  "https://bunny916.github.io/Re8StoreClassicServer/images/peppapigmemorygameimg1.PNG",
-        "Screenshot2":  "https://bunny916.github.io/Re8StoreClassicServer/images/peppapigmemorygameimg2.PNG",
-        "Screenshot3":  "https://bunny916.github.io/Re8StoreClassicServer/images/peppapigmemorygameimg3.PNG",
-        "staffPick":  true,
-        "icon_path":  "https://bunny916.github.io/Re8StoreClassicServer/images/peppapigmemorygame.png",
-        "file_path":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/65327Damicolo.PeppaPigMemoryGame_1.0.0.3_neutral__3fzfqdacad5k6.appx"
-    },
-    {
         "Id":  "moorhuhn",
         "Name":  "Moorhuhn",
         "Publisher":  "Doyodo Entertainment",
