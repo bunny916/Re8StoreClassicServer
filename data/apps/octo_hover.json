@@ -1,0 +1,18 @@
+{
+    "displayname": "Hover",
+    "productType": "game",
+    "category": "Games",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2026 Microsoft Corporation",
+    "description": "Hover is Back ?? Internet Explorer brings the classic Windows 95 capture-the-flag game to the web with brand new 3D graphics and touch gameplay.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "102.7 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://i.ibb.co/KpgXGFp8/tilesquarelarge-scale-100.jpg",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=Hover+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=Hover+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=Hover+Screenshot+3",
+    "downloadUri": "https://github.com/kitty93341-commits/Windows8Appx/releases/download/BigLoad/Microsoft.Hover_1.1.0.3_neutral__8wekyb3d8bbwe.appx"
+}

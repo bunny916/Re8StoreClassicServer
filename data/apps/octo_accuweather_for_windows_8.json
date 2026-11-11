@@ -1,0 +1,18 @@
+{
+    "displayname": "AccuWeather for Windows 8",
+    "productType": "app",
+    "category": "News & Weather",
+    "publisher": "AccuWeather",
+    "copyright": "© 2026 AccuWeather",
+    "description": "AccuWeather has the Superior Accuracy™, custom views, and weather animations you love! It is fun-to-use, reliable, and will make all the difference in your day.n The app is available in 27 languages and we designed it with you in mind because so many decisions are made based on the weather. You get a quick look at current weather conditions for the next 72 hours with an easy swipe to a calendar view of the forecasted conditions for each of the next 25 days – including the option to open up any of the 25 days for more weather detail! You also get: • Severe weather notices to keep you ahead...",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "28.5 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://www.accuweather.com/images/components/core/base-image-color.jpg",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=AccuWeather for Windows 8+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=AccuWeather for Windows 8+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=AccuWeather for Windows 8+Screenshot+3",
+    "downloadUri": "https://dl.retiled.xyz/Apptravaganza%21/AccuWeather/AccuWeather%28x86%29.appx"
+}

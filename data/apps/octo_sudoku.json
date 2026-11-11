@@ -1,0 +1,18 @@
+{
+    "displayname": "Sudoku",
+    "productType": "game",
+    "category": "Games",
+    "publisher": "Microsoft Studios",
+    "copyright": "© 2026 Microsoft Studios",
+    "description": "Sudoku Game, ported from Windows 8 developer preview Build 8102.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "1.6 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://i.ibb.co/bMyFxp4T/sudoku-snapped-pause.png",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=Sudoku+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=Sudoku+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=Sudoku+Screenshot+3",
+    "downloadUri": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/8102%20Beta%20Apps/sudoku_test4.appx"
+}

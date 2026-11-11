@@ -1,0 +1,18 @@
+{
+    "displayname": "Windows Alarms",
+    "productType": "app",
+    "category": "Utilities",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2026 Microsoft Corporation",
+    "description": "A simple yet beautiful and multi-functional timing app that comes with alarms, countdown timers, and a stopwatch. Use it to set wake up alarms and reminders, to time sporting events, and to keep track of time whenever you need to.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "6.0 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://i.ibb.co/1f59Y6W4/alarmslogo.png",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=Windows Alarms+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=Windows Alarms+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=Windows Alarms+Screenshot+3",
+    "downloadUri": "https://github.com/msnsports-31000/packages/raw/refs/heads/main/Microsoft.WindowsAlarms_2013.1204.852.3011_neutral_~_8wekyb3d8bbwe.appxbundle"
+}

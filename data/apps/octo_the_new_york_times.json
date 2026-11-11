@@ -1,0 +1,18 @@
+{
+    "displayname": "The New York Times",
+    "productType": "app",
+    "category": "News & Weather",
+    "publisher": "The New York Times",
+    "copyright": "© 2026 The New York Times",
+    "description": "APP DOESN'T WORK The New York Times app for Windows 8 is free to download and all users can access up to three free articles per day, from any section or subscribe for unlimited access to award-winning journalism. Subscribers get full access to over 25 sections plus unlimited access to NYTimes.com on any device. Existing subscribers with NYTimes.com + Tablet Apps or All Digital Access can simply log in to get full access to this app as part of their existing subscription.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "7.4 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://i.ibb.co/PsXT4JKC/tnyt.png",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=The New York Times+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=The New York Times+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=The New York Times+Screenshot+3",
+    "downloadUri": "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/TheNewYorkTimes.TheNewYorkTimes_2.1.0.302_x86__3q5wqmazkcmtm_1779965087045.appx"
+}

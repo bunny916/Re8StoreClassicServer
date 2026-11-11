@@ -1,0 +1,18 @@
+{
+    "displayname": "Windows Calculator",
+    "productType": "app",
+    "category": "Utilities",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2026 Microsoft Corporation",
+    "description": "A simple yet powerful app that includes a standard calculator, a scientific calculator, and a unit converter. Whether you’re using it to add up a bill, convert a recipe, or complete algebra, geometry or more complex math, Calculator is the perfect assistant. Use Calculator full screen for focused tasks or resize it next to another app for quick calculations.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "5.9 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://i.ibb.co/dwKLFH6M/calclogo.png",
+    "pageimg1": "https://via.placeholder.com/800x450.png?text=Windows Calculator+Screenshot+1",
+    "pageimg2": "https://via.placeholder.com/800x450.png?text=Windows Calculator+Screenshot+2",
+    "pageimg3": "https://via.placeholder.com/800x450.png?text=Windows Calculator+Screenshot+3",
+    "downloadUri": "https://github.com/msnsports-31000/packages/raw/refs/heads/main/Microsoft.WindowsCalculator_2013.1007.1950.2960_neutral_~_8wekyb3d8bbwe.appxbundle"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname": "My Talking Tom",
+    "productType": "game",
+    "category": "Games",
+    "publisher": "Outfit7 Limited",
+    "copyright": "© 2026 Outfit7 Limited",
+    "description": "My Talking Tom is a free Family Game: Discover the #1 games app in 135 countries! Adopt your very own baby kitten and help him grow into a fully grown cat. Take good care of your virtual pet.",
+    "mainStars": "0",
+    "ratingNumber": "0",
+    "ratingsCount": "0",
+    "size": "61.3 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://store-images.s-microsoft.com/image/apps.56373.9007199266250082.509de36e-3f0c-4d19-af7f-fe7df394368f.7e1fbd70-690f-4d28-8c3a-f135452195e7",
+    "pageimg1": "https://store-images.s-microsoft.com/image/apps.2649.9007199266250082.063a82d9-465f-466c-85d0-c073deae3431.a4d3713b-2e9f-4f8d-a3f8-517daa28cb10",
+    "pageimg2": "https://store-images.s-microsoft.com/image/apps.41398.9007199266250082.e3f5f07b-823e-4ddb-9d23-5ff9d88b40b1.7973f224-8d40-4560-a6c5-531849181cc7",
+    "pageimg3": "https://store-images.s-microsoft.com/image/apps.5783.9007199266250082.42bfaf0a-d876-4257-8a41-fc7ef82fe0f8.fa7aeb62-7e26-4d92-957a-578dbed21941",
+    "downloadUri": "https://github.com/MadeByAppLove/Windows-8.1-Appx-Archive/releases/download/Windows8/MyTalkingTom.Windows_4.3.2.0_x86.appx"
+}
