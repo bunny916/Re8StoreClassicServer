@@ -1,0 +1,18 @@
+{
+    "displayname":  "Windows Alarms Beta",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "",
+    "description":  "This app was extracted from a Windows 10 build 9901, works fine on Windows 8.1. Credit to @xexe111 on Discord for dumping this app! A simple yet beautiful and multi-functional timing app that comes with alarms, countdown timers, and a stopwatch. Use it to set wake up alarms and reminders, to time sporting events, and to keep track of time whenever you need to.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2,25 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1524795006232170761/logo/4158d6f0db225229.png",
+    "pageimg1":  "https://msnmoney.dankassassin368.com/vault/screenshots/alarms1.png",
+    "pageimg2":  "https://msnmoney.dankassassin368.com/vault/screenshots/alarms3.png",
+    "pageimg3":  "https://msnmoney.dankassassin368.com/vault/screenshots/alarms4.png",
+    "downloadUri":  "https://msnmoney.dankassassin368.com/vault/appx/alarms-beta.appx"
+}

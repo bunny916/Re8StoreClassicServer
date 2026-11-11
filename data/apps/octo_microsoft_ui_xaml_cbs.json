@@ -1,0 +1,18 @@
+{
+    "displayname":  "Microsoft.UI.Xaml.CBS",
+    "productType":  "app",
+    "category":  "Dependency",
+    "publisher":  "Microsoft Platform Extensions",
+    "copyright":  "© 2026 Win8Revival",
+    "description":  "This is a dependency package that has been ported from windows 11 all the way to windows 8.1. Its unknown wether this port works but it for apps that are dependent on such a package",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://files.catbox.moe/asj3jj.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Microsoft.UI.Xaml.CBS+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Microsoft.UI.Xaml.CBS+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Microsoft.UI.Xaml.CBS+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/XMAL.CBS.1_1783235819871.appx"
+}

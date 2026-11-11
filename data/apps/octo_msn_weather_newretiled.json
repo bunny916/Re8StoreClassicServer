@@ -1,0 +1,18 @@
+{
+    "displayname":  "MSN Weather (newRetiled)",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "MSN Weather: The best way to plan your day. Get the latest weather conditions, whether you\u0027re hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "19.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/4HRMhNT/Weather-win8-1.png",
+    "pageimg1":  "https://i.ibb.co/7dHHk2dB/image.png",
+    "pageimg2":  "https://i.ibb.co/qF29b2Bq/image.png",
+    "pageimg3":  "https://i.ibb.co/HfkJdSx2/image.png",
+    "downloadUri":  "https://dl.retiled.xyz/newRetiled/x64/MSN/Win8.1%20%282014u%29/Weather/Microsoft.BingWeather_3.0.4.214_x64__8wekyb3d8bbwe.appx"
+}

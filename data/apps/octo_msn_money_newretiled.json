@@ -1,0 +1,18 @@
+{
+    "displayname":  "MSN Money (newRetiled)",
+    "productType":  "app",
+    "category":  "Finance",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "MSN Money is an app that looks for news for money, that recieves finances. The app is bought from MSN, but retiled.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "5.4 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/tTShk4jZ/Finance-win8.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "downloadUri":  "https://dl.retiled.xyz/newRetiled/x64/MSN/Win8.1%20%282014u%29/Money/Microsoft.BingFinance_3.0.4.212_x64__8wekyb3d8bbwe.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "VCLibs 120 (x86)",
+    "productType":  "app",
+    "category":  "Dependency",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Dependency for Windows 8.1 apps",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/rjWZw3L/vclibs.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=VCLibs",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=VCLibs",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=VCLibs",
+    "downloadUri":  "https://github.com/M1k3G0/Win10_LTSC_VP9_Installer/blob/master/Microsoft.VCLibs.120.00_12.0.21005.1_x86__8wekyb3d8bbwe.appx"
+}

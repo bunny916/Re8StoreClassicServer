@@ -1,0 +1,18 @@
+{
+    "displayname":  "Foreca Weather",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "Foreca Limited",
+    "copyright":  "© 2026 Foreca Limited",
+    "description":  "(patched by chrisrlillo to use openmeteo) Ported by blend_media, Foreca Weather application gives you accurate information on current forecast for your city, even showing detailed hourly forecast graph and maps!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/JR3f7Lfm/unnamed.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Foreca",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Foreca",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Foreca",
+    "downloadUri":  "https://tetify.dankassassin368.com/appx/ForecaWeather_patch3.appx"
+}

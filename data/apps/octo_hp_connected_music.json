@@ -1,0 +1,18 @@
+{
+    "displayname":  "HP Connected Music",
+    "productType":  "app",
+    "category":  "Music \u0026 Audio",
+    "publisher":  "Hewlett-Packard Company",
+    "copyright":  "© 2026 Hewlett-Packard Company",
+    "description":  "(patched to removed the internet permissions so the app will run offline to avoid crashes when opening the app, made by Tetify) HP Connected Music is an evolutionary music app that integrates your music files with streaming and radio services. Many users have large music libraries in addition to using other services to discover new artists and genres. HP Connected Music brings both together and provides users the ability to create blended playlists for their listening enjoyment. This update includes performance and functionality improvements.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "25.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/xSppGmjp/Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=HP",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=HP",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=HP",
+    "downloadUri":  "https://tetify.dankassassin368.com/appx/Patched%20APPs%20by%20me/HP%20Connected%20Music%20(Crash%20fix)/HP%20Connected%20Music_1.5.0.253_x86.appx"
+}

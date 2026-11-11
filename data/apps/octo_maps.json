@@ -1,0 +1,18 @@
+{
+    "displayname":  "Maps",
+    "productType":  "app",
+    "category":  "Travel \u0026 Navigation",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Bing Maps is a powerful mapping service by Microsoft that provides road maps And More",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "5.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/NbPtCPW/50a77d8cf17b.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Maps+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Maps+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Maps+Screenshot+3",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Microsoft.BingMaps_1.6.1821.2624_x64__8wekyb3d8bbwe.appx"
+}

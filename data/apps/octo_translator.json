@@ -1,0 +1,18 @@
+{
+    "displayname":  "Translator",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "APP DOESNT WORK N/A",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "21.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Hfn93F6T/Square150x150-Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Translator+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Translator+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Translator+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/Microsoft.BingTranslator_1.18.3.0_x64__8wekyb3d8bbwe_1782388282216.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "MSN Sports (newRetiled)",
+    "productType":  "app",
+    "category":  "Sports",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Check sports news, scores, standings and others with MSN Sports. This app was patched with newRetiled, credit to migbrunluz.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "12.4 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/tP2vrnWS/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "downloadUri":  "https://dl.retiled.xyz/newRetiled/x64/MSN/Win8.1%20%282014u%29/Sports/Microsoft.BingSports_3.0.4.212_x64__8wekyb3d8bbwe.appx"
+}

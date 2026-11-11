@@ -1,0 +1,18 @@
+{
+    "displayname":  "Windows Central",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "Jay Bennett",
+    "copyright":  "© 2026 Jay Bennett",
+    "description":  "Windows Central application for Windows 8.1 provides fresh articles about Windows, Bing, Office and Xbox topics. Get news on live tile and in push notifications and keep yourself updated about Microsoft!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/yHKCLSK/icon.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Windows",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Windows",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Windows",
+    "downloadUri":  "https://dl.retiled.xyz/Apptravaganza%21/Multi%20patched%20apps/Windows%20Central/Neutral/WPCentral.Win8_1.3.1.2_AnyCPU.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "Zinio",
+    "productType":  "app",
+    "category":  "Books \u0026 Reference",
+    "publisher":  "Zinio LLC",
+    "copyright":  "© 2026 Zinio LLC",
+    "description":  "Read your magazines anytime, anywhere. Over 10000 magazines at your fingertips on the world\u0027s largest digital magazine newsstand. (couldn\u0027t connect to server)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "10.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/7d6QmqY6/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Zinio+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Zinio+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Zinio+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/ZinioLLC.Zinio_1.2.0.0_x64__0q6dqzpp40p2e_1783186388259.appx"
+}
