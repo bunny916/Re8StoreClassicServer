@@ -1,0 +1,18 @@
+{
+    "displayname":  "Tetri",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Danilo M Peres",
+    "copyright":  "Danilo M Peres",
+    "description":  "Tetri is a version of the classic puzzle game Tetris. The game is basically fit pieces falling from the top of the screen to form complete horizontal lines which then disappear. Upon completing number of missing lines, the level increases and the blocks begin to fall faster. If you can not complete the full line parts and get to the top of the screen, then you lose, and your Record may appear online highlighting his country.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/1272af8ff18baa6f.jpeg",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/8e345a1a2c340326.jpeg",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/5acaf949bd80251e.jpeg",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/5472f6ad678b6137.jpeg",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/43306DaniloMPeres.Tetri_1.0.0.4_neutral__04x5v82tm8pme.appx"
+}

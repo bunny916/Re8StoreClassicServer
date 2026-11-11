@@ -1,0 +1,18 @@
+{
+    "displayname":  "Just Feed",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "MCNEXT",
+    "copyright":  "© 2014 MCNEXT",
+    "description":  "The RSS reader and aggregator for people who just want to read latest articles from their favorite news feeds. No extras, no goodies, no categories. Just your feeds.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0,3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/logo/47236ddaa616d8c9.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/3724de8ccc7972cb.png",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/3724de8ccc7972cb.png",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/3724de8ccc7972cb.png",
+    "downloadUri":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/appx/711128e9a99ed27b.appxbundle"
+}

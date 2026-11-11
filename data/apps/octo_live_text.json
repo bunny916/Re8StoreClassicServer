@@ -1,0 +1,18 @@
+{
+    "displayname":  "Live Text",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "Live Text Team",
+    "copyright":  "© 2026 Live Text Team",
+    "description":  "Live Text is a Windows 10/8.1/8/Phone 8.1/8/7 that combines the best of live tiles and the Quotes/Texts, You can customize it like your way, pin the app to get the live tile, and you can write your own text instead of letting a quote take the place",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/ZpxLq0vV/Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Live",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Live",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Live",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/Live_Text_-_Windows_8.1_1.0.0.0_AnyCPU_1779543820395.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "MSN Travel (newRetiled)",
+    "productType":  "app",
+    "category":  "Travel \u0026 Navigation",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "This app was patched with newRetiled, credit to migbrunluz. MSN Travel: Your ultimate travel companion, from inspiration to booking. Easily plan and book your getaways, both close to home and away from it all.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "4.1 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/1DZs5DK/MSN-Travel-2013.png",
+    "pageimg1":  "https://store-images.microsoft.com/image/apps.49405.9007199266246460.305dc110-3225-4561-9ade-76ab172159c7.f4448945-dd82-446b-a243-54097a94ed37",
+    "pageimg2":  "https://store-images.microsoft.com/image/apps.37156.9007199266246460.1c4f6786-91b2-42bb-8f7b-bcb011d6d48b.4b4372b0-69c4-43f1-8014-1c4b2dfd6470",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=MSN",
+    "downloadUri":  "https://dl.retiled.xyz/newRetiled/x64/MSN/Win8.1%20%282014u%29/Travel/Microsoft.BingTravel_3.0.4.212_x86__8wekyb3d8bbwe.appx"
+}

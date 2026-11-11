@@ -1,0 +1,18 @@
+{
+    "displayname":  "Air Craft",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2012 Microsoft Corporation",
+    "description":  "Air Craft is a paper airplane plane designer.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/ede75d2dd98d25cc.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/3ef1fdd62a4f6cca.png",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/bf3e999b573ee40d.png",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/f390ab4498eb9ecd.png",
+    "downloadUri":  "https://raw.githubusercontent.com/kitty93341-commits/Windows8Appx/refs/heads/main/APPs/myplanet_test7.appx"
+}

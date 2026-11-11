@@ -1,0 +1,18 @@
+{
+    "displayname":  "Dell Document Hub",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "DELL GLOBAL B.V. (SINGAPORE BRANCH)",
+    "copyright":  "© 2026 DELL GLOBAL B.V. (SINGAPORE BRANCH)",
+    "description":  "Dell Document Hub is a convenient cloud solution that enables you to simplify document collaboration. Designed primarily for Dell laser printers, this app allows you to scan to and print from a variety of common cloud storage services. Using this app, you can conveniently connect to these cloud services and enable your compatible Dell printer to perform mobile printing and scanning, and converting documents to editable and searchable files with free Optical Character Recognition (OCR). You can also view printer status and configure print and scan settings. Supported printers Dell Color Prin...",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "6.8 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/9kdP2qQ0/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Dell",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Dell",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Dell",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/DellPrinter.DellDocumentHub_1.1.2.2_x86__nmdn7k89bxsn6_1783191894881.appx"
+}

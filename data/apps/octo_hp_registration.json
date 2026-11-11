@@ -1,0 +1,18 @@
+{
+    "displayname":  "HP Registration",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "Hewlett-Packard Company",
+    "copyright":  "© 2026 Hewlett-Packard Company",
+    "description":  "Register with HP enables you to register your device with HP for personalized care. At HP, we are dedicated to delivering the best customer experience to you. If you happen to need support, the registration information we have about you and this computer will allow our support team to help you quickly. Also, if you agree to let us contact you, we will send you product and service offers, support updates, market research opportunities, or other event news. Each promotional email you receive allows you to unsubscribe from future promotional emails.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/r2nQnpmT/7b60ed84fbf1.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=HP",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=HP",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=HP",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/AD2F1837.HPRegistration_1.2.1.142_neutral__v10z8vjag6ke6.appx"
+}

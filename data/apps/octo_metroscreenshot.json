@@ -1,0 +1,18 @@
+{
+    "displayname":  "MetroScreenshot",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "AppLove",
+    "copyright":  "AppLove 2026",
+    "description":  "Easily capture screenshots of your favorite Metro apps, games, and the Start screen with MetroScreenshot!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/5xKmkMcv/b3adf2b4cc42.png",
+    "pageimg1":  "https://private-user-images.githubusercontent.com/291809711/693910717-c46f0a6d-4c85-41cb-bbbe-faf433ccda13.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM3MzQyNTYsIm5iZiI6MTc5MzczMzk1NiwicGF0aCI6Ii8yOTE4MDk3MTEvNjkzOTEwNzE3LWM0NmYwYTZkLTRjODUtNDFjYi1iYmJlLWZhZjQzM2NjZGExMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwM1QxOTI1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYmVlY2U5NmE3MGFiZDdiNDc3MjFhYjE0YjU3NjAyNjgxNDMyZTQ1MTA5ZTc4NGY2M2IyMGIzMTA5YjU1MjlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.6H35c05nwNCIMCrp3tB2x-WMceISuJ8PI6UkjZ9pvKY",
+    "pageimg2":  "https://private-user-images.githubusercontent.com/291809711/693910376-96b53f51-fdcc-4815-a8eb-a1bdbf1bee16.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM3MzQyNTYsIm5iZiI6MTc5MzczMzk1NiwicGF0aCI6Ii8yOTE4MDk3MTEvNjkzOTEwMzc2LTk2YjUzZjUxLWZkY2MtNDgxNS1hOGViLWExYmRiZjFiZWUxNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwM1QxOTI1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZmQ4M2U4NWI0MTdhOTBlNjc4MTBlMmUwMDg3YTAwNWY4OWViNGU5ZTY1OWM2ZmQ5MjIyYjA0MTZmMGQ2ZDQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.wYki3V8P4mscmotT03pFp_ZDjf3wR6PgFtM946EqW8A",
+    "pageimg3":  "https://private-user-images.githubusercontent.com/291809711/693910446-f43c1235-872e-421e-a39f-e7d4a065181b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM3MzQyNTYsIm5iZiI6MTc5MzczMzk1NiwicGF0aCI6Ii8yOTE4MDk3MTEvNjkzOTEwNDQ2LWY0M2MxMjM1LTg3MmUtNDIxZS1hMzlmLWU3ZDRhMDY1MTgxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwM1QxOTI1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzE0ODRkMTg4ZTM4N2ZjNDdjMDk4MThkMjdhZThlYWZlNzI1MGEzMzQ0NThhMjk4ZTM1NDkzYmYyYjVjMjk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.d2vWQSvlZZ0sRzpXWjCqyQbgULwOLFD4PktIZ0CVt4k",
+    "downloadUri":  "https://github.com/MadeByAppLove/MetroScreenshot/releases/download/Release/MetroScreenshot_1.1.0.0.appx"
+}

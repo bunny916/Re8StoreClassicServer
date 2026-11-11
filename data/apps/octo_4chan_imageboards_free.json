@@ -1,0 +1,18 @@
+{
+    "displayname":  "4chan Imageboards FREE",
+    "productType":  "app",
+    "category":  "Social",
+    "publisher":  "League of Coders",
+    "copyright":  "© 2012 League of Coders",
+    "description":  "(doesn\u0027t work to connect to 4chan servers) 4chan Imageboards pulls in RSS feed info from the infamous image sharing site. The chosen feeds are clean (mostly).",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0,2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/logo/141eec5d4e59f482.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/622d5ed8da263603.jpg",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/622d5ed8da263603.jpg",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/screenshot/622d5ed8da263603.jpg",
+    "downloadUri":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1351551703006187571/appx/d2e56decfc669723.appx"
+}

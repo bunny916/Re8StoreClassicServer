@@ -1,0 +1,18 @@
+{
+    "displayname":  "Metroflix",
+    "productType":  "app",
+    "category":  "Video \u0026 Entertainment",
+    "publisher":  "Metroflix, Inc.",
+    "copyright":  "© 2026 Metroflix, Inc.",
+    "description":  "Metroflix is a video sharing application designed specifically for Windows 8, delivering a fast and fluid viewing experience across the entire Windows 8 family of devices.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/ycpW8WhY/metroflix.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Metroflix+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Metroflix+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Metroflix+Screenshot+3",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Metroflix.appxbundle"
+}

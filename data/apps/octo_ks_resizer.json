@@ -1,0 +1,18 @@
+{
+    "displayname":  "KS Resizer",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "KenzieShane Media",
+    "copyright":  "© 2026 KenzieShane Media",
+    "description":  "Resize app logos and splash images, easily for your new Windows 8 metro app development. Supports exporting to common filenames and resolution easily with a remove background feature. No dependencies needed.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://ks.141412.xyz/resizer/logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=KS",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=KS",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=KS",
+    "downloadUri":  "https://ks.141412.xyz/resizer/resizer.appx"
+}

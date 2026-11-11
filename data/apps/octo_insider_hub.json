@@ -1,0 +1,18 @@
+{
+    "displayname":  "Insider Hub",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "APP DOESN\u0027T WORK Insider Hub app for Windows Insider Preview keeps you updated about recent Windows Insider news and announcements. You also are able to complete quests, earn achievements, and upload your telemetry for the research.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.4 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/zW4X8B1Y/insiderhub.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Insider",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Insider",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Insider",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/Microsoft.InsiderHub_15.3.30.1_x86__8wekyb3d8bbwe_1780310454359.appx"
+}

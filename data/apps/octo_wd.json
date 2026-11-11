@@ -1,0 +1,18 @@
+{
+    "displayname":  "WD",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Western Digital Technologies, inc.",
+    "copyright":  "© 2026 Western Digital Technologies, inc.",
+    "description":  "The WD App for Windows 8 automatically discovers digital media files on connected Western Digital storage devices. It organizes your photos, music, and videos into an easy-to-use interface, letting you seamlessly view content and share media via email and social networks",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/FbyQR0hR/Store-Logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=WD+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=WD+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=WD+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/WesternDigitalTechnologie.WD_1.3.0.37_x86__dtxdawpy7cjxe.Appx_1782237908002.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "Windows 8 store 앱 등록",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "hsangyul",
+    "copyright":  "2013 hsangyul",
+    "description":  "Windows 8 store 앱 등록은 Windows 8 store에 앱을 올릴 수 있도록 가이드 하고 있는 가이드북입니다.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/G4VQZdtJ/9da694288a40.png",
+    "pageimg1":  "https://store-images.s-microsoft.com/image/apps.38004.9007199266370486.d004a446-11fb-411d-af2f-ffaaebbf001d.ce016f12-934e-473c-9523-09ba7864e70f",
+    "pageimg2":  "https://store-images.s-microsoft.com/image/apps.11374.9007199266370486.6720e1ae-5113-4f9d-9bd5-5ef1046169ca.47f66e5d-6a26-45c3-865a-592b89e88a56",
+    "pageimg3":  "https://store-images.s-microsoft.com/image/apps.38004.9007199266370486.d004a446-11fb-411d-af2f-ffaaebbf001d.ce016f12-934e-473c-9523-09ba7864e70f",
+    "downloadUri":  "https://github.com/kitty93341-commits/Windows8Appx/raw/refs/heads/main/APPs/56358hsangyul.Windows8store_1.0.0.4_x86__7sgebq64hemkt.appx"
+}

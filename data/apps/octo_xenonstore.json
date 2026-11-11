@@ -1,0 +1,18 @@
+{
+    "displayname":  "XenonStore",
+    "productType":  "app",
+    "category":  "Shopping",
+    "publisher":  "ShadowCreek Apps",
+    "copyright":  "© 2026 ShadowCreek Apps",
+    "description":  "XenonStore is a simple storefront application made for Windows 8.0 (Windows build 9200). It was made for obtaining applications that are supported on Windows 8.0. It has interface similar to Windows Store from back in the day. You can view this project\u0027s source code at https://github.com/simplewpapps/XenonStore.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://xenonstore.dankassassin368.com/storecontent/square-logo.png",
+    "pageimg1":  "https://xenonstore.dankassassin368.com/storecontent/screenshots/1.png",
+    "pageimg2":  "https://xenonstore.dankassassin368.com/storecontent/screenshots/2.png",
+    "pageimg3":  "https://xenonstore.dankassassin368.com/storecontent/screenshots/3.png",
+    "downloadUri":  "https://xenonstore.dankassassin368.com/storecontent/packages/1.0.0.0/xenonstore-1.0.0.0.appx"
+}

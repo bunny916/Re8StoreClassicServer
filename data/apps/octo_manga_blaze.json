@@ -1,0 +1,18 @@
+{
+    "displayname":  "Manga Blaze",
+    "productType":  "app",
+    "category":  "Books \u0026 Reference",
+    "publisher":  "Val Mitev",
+    "copyright":  "© 2026 Val Mitev",
+    "description":  "Read the latest manga and manhwa chapters for free on MangaBlaze. New chapters updated daily. Discover popular series and hidden gems. (couldn\u0027t connect to server)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "4.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/LD0WTHtr/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Manga",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Manga",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Manga",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/MoonstoneWS_1.2.0.14_x86_1783186553957.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "OctoStore For Reinstall",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "OctoLimited",
+    "copyright":  "© 2026 OctoLimited",
+    "description":  "Reinstallation file for OctoStore using the official OctoStore file Downloaded from the official OctoStore website",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.8 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://media.discordapp.net/attachments/1489330030143213598/1520537497417814227/image.png?ex=6a5bec65\u0026is=6a5a9ae5\u0026hm=f6e0ec1e0d090e780be2206b9a7b986655f8c95151ef77b2496da611da220d58\u0026=\u0026format=webp\u0026quality=lossless\u0026width=498\u0026height=495",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=OctoStore",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=OctoStore",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=OctoStore",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/OctoLimited.OctoStore_1.4.0.0_neutral__9nv48q8g3jb4r_1784344070.appx"
+}

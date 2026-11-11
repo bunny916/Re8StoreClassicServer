@@ -1,0 +1,18 @@
+{
+    "displayname":  "ScreenMock",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Medienstudio.net",
+    "copyright":  "© 2026 Medienstudio.net",
+    "description":  "With ScreenMock, you can make display apps, files etc. on fake phones with only a screenshot",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Lz3VKjND/Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=ScreenMock+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=ScreenMock+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=ScreenMock+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/18031Medienstudio.net.ScreenMock_1.2.0.2_neutral__3t0epabs2a730_1782232034524.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "Pin More",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Snowy Dune",
+    "copyright":  "© 2026 Snowy Dune",
+    "description":  "Pin custom tiles for Steam, Origin and Uplay games, documents, document folders and websites to your Start screen! Create static tiles with any image you want as logo or use up to 5 images to create a live tile that cycles between them. You can also create live tiles for your Steam games that display your achievements or for your favorite websites displaying their latest news. Choose the background color you want to use by either picking one of the default colors, using our color picker, entering the RGB values of the color or even picking a color directly from any of the tile images. Expor...",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/XrQcSG33/pintile.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Pin",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Pin",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Pin",
+    "downloadUri":  "https://tetify.dankassassin368.com/appx/octostore/37508SnowyDune.PinMore_2.3.8.0_x86__ztk87pzmht872.appx"
+}

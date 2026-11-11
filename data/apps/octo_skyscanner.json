@@ -1,0 +1,18 @@
+{
+    "displayname":  "Skyscanner",
+    "productType":  "app",
+    "category":  "Travel \u0026 Navigation",
+    "publisher":  "Skyscanner",
+    "copyright":  "© 2026 Skyscanner",
+    "description":  "BROKEN APP Plan your next trip with Skyscanner with ease. Search for the best prices on flights, hotels, and rental cars - all in one place. No matter where you are, search for affordable flights, hotels, and car rental deals around the world. Save time and money by comparing and booking in one place with your favorite travel providers, such as Air France, easyJet, Ryanair, Transavia, Volotea, and Vueling - more than 1,000 routes to and from Paris.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.postimg.cc/d0p6SrbJ/Tile-Logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Skyscanner+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Skyscanner+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Skyscanner+Screenshot+3",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Skyscanner.Skyscanner_1.3.0.21_neutral__623c9he0pwcym_1784368305.appx"
+}

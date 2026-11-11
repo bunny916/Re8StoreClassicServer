@@ -1,0 +1,18 @@
+{
+    "displayname":  "YouTube Go",
+    "productType":  "app",
+    "category":  "Video \u0026 Entertainment",
+    "publisher":  "AppLove",
+    "copyright":  "Google LLC",
+    "description":  "Get the unofficial YouTube Go app optimized specifically for low-performance Windows 8.1 devices. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any Windows 8.1 device. (Recommended for Windows RT devices)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/5Wk76yhg/fce27e983c14.png",
+    "pageimg1":  "https://play-lh.googleusercontent.com/XHp3B3m9k1agnkvypfWIVS_BLmG5-XInqtIx1iagRN_G2i58W3uc1nhiTuKFngrDYv5BhOBFSUYljWkKlEL2Rp8=w1052-h592-rw",
+    "pageimg2":  "https://play-lh.googleusercontent.com/dwBUJFPj8Dw5oo-AFzADBWNgZm-tNiaViN63Egt59eCMDMSJKc0S3HgNjX3QcDpw_TUwsqwAs5LDgkOZLENxtQ=w1052-h592-rw",
+    "pageimg3":  "https://play-lh.googleusercontent.com/4xFPdeGc8SK-j3JpgClwGjZhGVpUw46clv3sUB_Nzwu3f-d87po-K1L6nh-RF5pY53QutuE0wik3OWLkFIbSSw=w1052-h592-rw",
+    "downloadUri":  "https://github.com/MadeByAppLove/Windows-8.1-Appx-Archive/releases/download/Windows8/YouTube_Go_1.0.2.0.appx"
+}

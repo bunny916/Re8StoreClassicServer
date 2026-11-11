@@ -1,0 +1,18 @@
+{
+    "displayname":  "BoomBall",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Frode Aarebrot",
+    "copyright":  "© 2026 Frode Aarebrot",
+    "description":  "Boom Ball is a simple paddle and bricks game. Defeat 50 levels to try and beat your high score. Destroy all the blocks using the ball while preventing it from falling through the bottom and losing lives. Hit as many bricks without using the paddle for extra points.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "6.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/CKLNf3VT/Square-Tile.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=BoomBall+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=BoomBall+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=BoomBall+Screenshot+3",
+    "downloadUri":  "https://github.com/kitty93341-commits/Windows8Appx/releases/download/Windows8/64652FrodeAarebrot.BoomBall_1.0.0.0_x86__0g9d8dyeqhw7y.appx"
+}

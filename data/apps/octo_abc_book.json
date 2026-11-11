@@ -1,0 +1,18 @@
+{
+    "displayname":  "ABC Book",
+    "productType":  "app",
+    "category":  "Education",
+    "publisher":  "Beridaru",
+    "copyright":  "© 2026 Beridaru",
+    "description":  "ABC Book makes learning the alphabet fun for preschool children. Look at the pictures, listen to the words, and learn to write all the letters of the alphabet. First by following the outlined letters with the finger or mouse on the drawing pad. Then doing it on your own.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.8 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/tp85YjDB/Logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=ABC",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=ABC",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=ABC",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/22644Beridaru.ABCBook_1.1.1.26_neutral__adja9b0p368hp_1784858053.appx"
+}

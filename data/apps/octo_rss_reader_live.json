@@ -1,0 +1,18 @@
+{
+    "displayname":  "RSS Reader Live",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "HVietDev",
+    "copyright":  "",
+    "description":  "A simple RSS Reader app with Live Tiles and Toast notification. This app is great at using with must-read feed.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/e37750d2fcfc7c35.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/c5871b33f3a1e370.jpeg",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/081e2dd5a7651b84.jpeg",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/46780527f7d1b180.jpeg",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/56702HVietDev.RSSReaderLive_1.0.0.11_x86__rtf4fqtds1prg.appx"
+}

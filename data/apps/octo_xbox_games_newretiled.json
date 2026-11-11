@@ -1,0 +1,18 @@
+{
+    "displayname":  "Xbox Games (newRetiled)",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Play games like never before with Xbox Games app. Patched with newRetiled, credit to migbrunluz/boks.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "32.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/8gbnWytV/xbgames.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Xbox",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Xbox",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Xbox",
+    "downloadUri":  "https://dl.retiled.xyz/newRetiled/Bundles%21%20%28Signed%20MSN%20Apps%29/XBL%20Games%20App/Microsoft.XboxLIVEGames_2013.1011.10.5965_neutral_~_8wekyb3d8bbwe.appxbundle"
+}

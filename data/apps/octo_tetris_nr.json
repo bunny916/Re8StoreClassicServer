@@ -1,0 +1,18 @@
+{
+    "displayname":  "Tetris NR",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Dev2You",
+    "copyright":  "Dev2You Homebrew",
+    "description":  "Tetris NR is a puzzle game where you slide blocks in to win",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "6,7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/7a1277b24d9d2191.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/898342ef10df410c.jpg",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/373640481de6224b.jpg",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/186fe1ea28f891d4.jpg",
+    "downloadUri":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/appx/a7df38e8f91f3930.appx"
+}

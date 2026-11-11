@@ -1,0 +1,18 @@
+{
+    "displayname":  "Swisscom Mobile Broadband",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Swisscom (Schweiz) AG",
+    "copyright":  "© 2026 Swisscom (Schweiz) AG",
+    "description":  "This app offers essential functionalities around data usage of Swisscom and M-Budget Mobile Internet such as a global overview, cost control and much more. To this end, a USB modem (available on swisscom.ch or in a Swisscom Shop) and a Swisscom or M-Budget Mobile SIM card (prepaid or subscription) is required.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/kg1ZqLJH/Logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Swisscom",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Swisscom",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Swisscom",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/SwisscomSchweizAG.SwisscomMobileBroadband_1.7.0.568_neutral__3jmrtrmb6pkmr_1782669295711.appx"
+}

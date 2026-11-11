@@ -1,0 +1,18 @@
+{
+    "displayname":  "Tile Gallery",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Windows Modern",
+    "copyright":  "© 2026 Windows Modern",
+    "description":  "Tile Gallery helps you create a picture sideshow for Start menu tiles. Github Project: https://github.com/modernw/TileGallery",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/spbxYdZG/f57f7ecff7c1.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Tile",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Tile",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Tile",
+    "downloadUri":  "https://tetify.dankassassin368.com/appx/octostore/WindowsModern.TileGallery_1.0.0.17_neutral__y8ve4exr9cgxp.appx"
+}

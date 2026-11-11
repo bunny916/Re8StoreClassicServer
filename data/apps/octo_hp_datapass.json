@@ -1,0 +1,18 @@
+{
+    "displayname":  "HP DataPass",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Foggmobile",
+    "copyright":  "2013 Foggmobile",
+    "description":  "HP DataPass - A 3G+ data plan with no contract, credit card or overage fees.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3,26 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/7JcrtVkY/b7c9de214367.png",
+    "pageimg1":  "https://i.ibb.co/Pv1t5DHh/83d658ef3f88.jpg",
+    "pageimg2":  "https://i.ibb.co/Pv1t5DHh/83d658ef3f88.jpg",
+    "pageimg3":  "https://i.ibb.co/Pv1t5DHh/83d658ef3f88.jpg",
+    "downloadUri":  "https://raw.githubusercontent.com/kitty93341-commits/Windows8Appx/refs/heads/main/APPs/0B6A684D.HPDataPass_2.1.1.14_neutral_%7E_kc2z6zd6vw880.appxbundle"
+}

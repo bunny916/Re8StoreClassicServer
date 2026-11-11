@@ -1,0 +1,18 @@
+{
+    "displayname":  "Skype WiFi",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "With Skype WiFi you can get online at over 1 million public WiFi hotspots worldwide at the touch of a button. Here’s how: 1. Simply connect to any supported public WiFi hotspot. 2. Open the Skype WiFi app and tap the big green Connect button… 3. Ta-da! You’re now connected to the internet (wasn’t that easy?). You’re now free to browse the web, check your email or enjoy free calls and messages to all your friends and family with the Skype app – remember, it’s a different app to the Skype WiFi one. ;)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/xtBnd7Nk/logo-big.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Skype",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Skype",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Skype",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Microsoft.SkypeWiFi_1.2.0.7_x86__kzf8qxf38zg5c_1784502982.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "Slither.io",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Aerobit",
+    "copyright":  "© 2026 Aerobit",
+    "description":  "Slither.io for Windows 8 is a unofficial port of Slither.io to Windows 8.1 via webview. This app is about being the longest worm and eating orbs and killing other worms to be the best of them all. To prevent lag since it uses the IE11 engine, I suggest you use low quality mode. (you cannot play this game offline)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://8store.nekoweb.org/Files/storelogo.scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Slither.io+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Slither.io+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Slither.io+Screenshot+3",
+    "downloadUri":  "https://8store.nekoweb.org/Files/SlitherWin8_1.0.0.0_AnyCPU_Debug.appx"
+}

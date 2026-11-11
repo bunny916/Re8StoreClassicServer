@@ -1,0 +1,18 @@
+{
+    "displayname":  "Piano Time Pro",
+    "productType":  "app",
+    "category":  "Music \u0026 Audio",
+    "publisher":  "Revel Software",
+    "copyright":  "© 2026 Revel Software",
+    "description":  "Piano Time Pro is a multitouch piano comprised of 36 visible keys and 4 selectable octaves. With a configurable metronome, users can learn to play the piano or practice their skills, as well as record and playback unlimited songs. Piano Time Pro supports multitouch screen, keyboard, mouse and midi input. Now you can save and share recordings as MP3s and select from different keyboard mapping options! Piano Time Pro is Ad-free.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.8 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/KpDHmGYj/Small-Logo-targetsize-256.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Piano",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Piano",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Piano",
+    "downloadUri":  "https://github.com/simplewpapps/octostoreappxrepo/raw/refs/heads/main/RevelSoftware.PianoTimePro_1.0.0.16_neutral__rm1v733ay04k0.appx"
+}

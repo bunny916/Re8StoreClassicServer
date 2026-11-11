@@ -1,0 +1,18 @@
+{
+    "displayname":  "PikaJump",
+    "productType":  "app",
+    "category":  "Action",
+    "publisher":  "Immz",
+    "copyright":  "© 2026 Immz",
+    "description":  "Guide Pikachu jump through the stage! Be careful not to run into the walls! Patch Note: Version 1.0.0.3 *Changes* - Fixed white bar occasionally appearing on the right side of the background.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/GfpgWNGy/150.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=PikaJump+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=PikaJump+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=PikaJump+Screenshot+3",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/35642lmnz.PikaJump_1.0.0.3_neutral__8nzgekrt06n36_1784941869.appx"
+}

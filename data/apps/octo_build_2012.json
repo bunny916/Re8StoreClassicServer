@@ -1,0 +1,18 @@
+{
+    "displayname":  "Build 2012",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Provides a way to browse and view session details for the Microsoft Build conference",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.8 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/3yRqhp0v/6fcdc9af672d.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Build",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Build",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Build",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Microsoft.Build2012_1.0.2.4_x86__8wekyb3d8bbwe.appx"
+}

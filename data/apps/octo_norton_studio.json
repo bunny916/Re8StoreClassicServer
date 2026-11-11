@@ -1,0 +1,18 @@
+{
+    "displayname":  "Norton Studio",
+    "productType":  "app",
+    "category":  "Security",
+    "publisher":  "Symantec Corporation",
+    "copyright":  "© 2026 Symantec Corporation",
+    "description":  "Uniquely designed and optimized for Windows 8.1, Norton Studio allows users to view, manage, and explore Norton products, on various devices, all from a convenient central location.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "4.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/1f9QPBLq/6c3f523eb76a.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Norton",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Norton",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Norton",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/SymantecCorporation.NortonStudio_1.3.0.24_x86__v68kp9n051hdp.appx"
+}

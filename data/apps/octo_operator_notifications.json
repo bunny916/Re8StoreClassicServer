@@ -1,0 +1,18 @@
+{
+    "displayname":  "Operator Notifications",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Nokia Corporation",
+    "copyright":  "© 2026 Nokia Corporation",
+    "description":  "This app allows you to receive messages from your mobile operator about potential data roaming charges. Please consult your mobile operator to learn how they communicate such notifications. For use with Nokia broadband tablets. A valid SIM card is required",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/0ybDQYN3/a828d8c4d884.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Operator",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Operator",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Operator",
+    "downloadUri":  "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/NokiaCorporation.OperatorNotifications_1.0.0.14_neutral__6d0q6r3z979nw.appx"
+}

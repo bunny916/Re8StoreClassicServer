@@ -1,0 +1,18 @@
+{
+    "displayname":  "Surface Trackpad Settings",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Touch and Type Covers for Surface have a trackpad built-in that functions like a mouse. Trackpad Settings lets you control functions such as tap and touch gestures on your Surface. If this app doesn??t detect the keyboard, do the following: 1. Make sure you have the latest updates: From the Start screen, type Update, tap Settings, then tap Check for updates. 2. From the Start screen, type Devices, tap Settings, then tap Devices and Printers. Then tap Refresh three times (circular arrow next to Search box). Try using the app again.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Z1bnC2BC/squarelogo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Surface",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Surface",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Surface",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/2F68A385.TrackpadSettings_2014.710.1757.5767_neutral___hc48gwjdw91z2_1781908283671.appxbundle"
+}

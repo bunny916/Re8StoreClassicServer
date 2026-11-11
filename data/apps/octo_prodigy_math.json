@@ -1,0 +1,18 @@
+{
+    "displayname":  "Prodigy Math",
+    "productType":  "app",
+    "category":  "Education",
+    "publisher":  "Aerobit",
+    "copyright":  "© 2026 Aerobit",
+    "description":  "This is a unofficial ported version of Prodigy Mathmade using webview. If you don\u0027t know what Prodigy is, it is a popular, educational game for kids that you are a wizard and you have to fight monsters if you answer math problems correctly. This version of the game is version 1.17, which is the version of the game from early 2016. This version includes: - Free membership - No need answer math questions - And no in app purchases The app might also take a while to load and will show a blue screen, just wait until the sign in screen loads. If you want to save your data, play the game with the ...",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://8store.nekoweb.org/Files/prodigy.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Prodigy",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Prodigy",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Prodigy",
+    "downloadUri":  "https://8store.nekoweb.org/Files/ProdigyMath_1.17.0.0_AnyCPU_Debug.appx"
+}

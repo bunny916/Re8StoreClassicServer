@@ -1,0 +1,18 @@
+{
+    "displayname":  "YouTube",
+    "productType":  "app",
+    "category":  "Video \u0026 Entertainment",
+    "publisher":  "AppLove",
+    "copyright":  "",
+    "description":  "Get the unofficial YouTube app on Windows 8.1. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any Windows 8.1 device.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.4 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/logo/d64492da5a64b4d8.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/screenshot/c98e4330fa42d339.png",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/screenshot/c98e4330fa42d339.png",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/screenshot/c98e4330fa42d339.png",
+    "downloadUri":  "https://github.com/MadeByAppLove/Windows-8.1-Appx-Archive/releases/download/Windows8/YouTube_1.1.0.0.appx"
+}

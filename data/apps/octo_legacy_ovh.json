@@ -1,0 +1,18 @@
+{
+    "displayname":  "Legacy.ovh",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Legacy.ovh",
+    "copyright":  "© 2026 Legacy.ovh",
+    "description":  "Legacy.ovh for metro because google doesn\u0027t work anymore",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/7wptkfN/logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Legacy.ovh+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Legacy.ovh+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Legacy.ovh+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/Legach.OVHRT_1.0.0.0_AnyCPU_1783191211733.appx"
+}

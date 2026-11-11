@@ -1,0 +1,18 @@
+{
+    "displayname":  "Arkkanoid 8",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Mutant Bear Games",
+    "copyright":  "© Mutant Bear Games",
+    "description":  "Arkanoid 8 is a classic ball \u0026 brick breakout game, where playability is King. Use the paddle to break all the bricks in the level and rush through the 200 levels!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "4.89 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://raw.githubusercontent.com/kitty93341-commits/Windows8Appx/refs/heads/main/Icons/Arcanoid8Icon.png",
+    "pageimg1":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/32cfe5284c92bf1f.jpeg",
+    "pageimg2":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/ee1d3de703431f3b.jpeg",
+    "pageimg3":  "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/ba5adb4f66f412a0.jpeg",
+    "downloadUri":  "https://github.com/kitty93341-commits/Windows8Appx/releases/download/BigLoad/53388MutantBearGames.Arkkanoid8_1.0.1.9_neutral__5pfgqq4dahhzr.appx"
+}

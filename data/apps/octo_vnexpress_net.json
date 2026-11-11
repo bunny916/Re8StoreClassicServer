@@ -1,0 +1,18 @@
+{
+    "displayname":  "VnExpress.net",
+    "productType":  "app",
+    "category":  "News \u0026 Weather",
+    "publisher":  "FPT Online JSC",
+    "copyright":  "© 2026 FPT Online JSC",
+    "description":  "(This app is a vietnamese news reader,you can see the post but it failed loading when you click on it,non-retiled and live tiltle didn\u0027t work) (original description) V?i VnExpress.net, b?n c? ?u?c: Th?ng tin nhanh v? m?i ?u?c c?p nh?t li?n t?c; Tin t?c Vi?t Nam v? th? gi?i v? x? h?i, kinh doanh, ph?p lu?t, th? thao, khoa h?c, c?ng ngh?, s?c kho?, ??i s?ng, v?n h?a... Gi? ??y v?i VnExpress App, phi?n b?n d?ng cho Windows 8.1 c?a VnExpress.net, b?n c? th?: - ??c ??y ?? tin t?c c?a VnExpress tr?n ?i?n tho?i c?a m?nh v?i d? li?u t?i v? nh? nh?t. - ?u?c th?ng b?o tin m?i ngay khi ch?ng xu?t hi?n...",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/84j4KZ4s/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=VnExpress.net+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=VnExpress.net+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=VnExpress.net+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/fpt_1782962638632.appx"
+}

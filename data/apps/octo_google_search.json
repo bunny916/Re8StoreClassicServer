@@ -1,0 +1,18 @@
+{
+    "displayname":  "Google Search",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Google, Inc.",
+    "copyright":  "© 2026 Google, Inc.",
+    "description":  "The world\u0027s information at your fingertips. A familiar, fast, and precise way to find answers on your Windows 8 device.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "3.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/hFrr9QDn/gsa-win-logo-150.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Google",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Google",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Google",
+    "downloadUri":  "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/GoogleInc.GoogleSearch_1.2.1.12_x86__yfg5n0ztvskxp_1783196812999.appx"
+}
