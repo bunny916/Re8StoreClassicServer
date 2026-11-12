@@ -1,0 +1,18 @@
+{
+    "displayname":  "Windows Photos",
+    "productType":  "app",
+    "category":  "Photo \u0026 Design",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Use Windows Photos application to organize your photos, make albums. You can use this app in pair with Windows Camera to import the photos from your external device. You can also connect to SkyDrive or Flickr to get photos from your friends and your cloud. This app is 8.0 compatible and also x64.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "6.7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/vxWSkZmP/Win8-Photos.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Windows Photos+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Windows Photos+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Windows Photos+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/windowsphotos/16.4.4396.311/x64/microsoft.windowsphotos_16.4.4396.311_x64__8wekyb3d8bbwe.Appx"
+}

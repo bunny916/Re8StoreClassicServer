@@ -1,0 +1,18 @@
+{
+    "displayname":  "ClassiCube",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "ClassiCube Project",
+    "copyright":  "© 2026 ClassiCube Project",
+    "description":  "Minecraft Replica. ClassiCube is based on Minecraft Indev 0.30a",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.6 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://avatars.githubusercontent.com/u/51250960?s=280\u0026v=4",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=ClassiCube+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=ClassiCube+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=ClassiCube+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/ClassiCube/ClassiCube.appx"
+}

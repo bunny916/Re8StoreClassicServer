@@ -1,0 +1,18 @@
+{
+    "displayname":  "8Zip",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Boo Studio LLC",
+    "copyright":  "© 2026 Boo Studio LLC",
+    "description":  "8 Zip Lite is a compression application for Windows PC that you can use for free and is compatible with the most common file formats such as RAR, ZIP and 7Z.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "7.7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Z6MdP2d5/8zip.png",
+    "pageimg1":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/8zip1.png",
+    "pageimg2":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/8zip2.png",
+    "pageimg3":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/8zip3.png",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/8%20Zip%20Lite/1.1.0.10/x86/BooStudioLLC.8ZipLite_1.1.0.10_x86__b6e429xa66pga.appx"
+}

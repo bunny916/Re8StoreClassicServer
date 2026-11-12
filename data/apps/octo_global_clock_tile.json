@@ -1,0 +1,18 @@
+{
+    "displayname":  "Global clock tile",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Vassil Arabadjiev",
+    "copyright":  "© 2026 Vassil Arabadjiev",
+    "description":  "The app displays the time, day of the week and the date in the tile on start screen. Please make sure you open the app first and allow it to lock screen for the tile update to work. Then, you can pin it to your start screen.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/HfJMnM8p/Square150150-Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Global clock tile+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Global clock tile+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Global clock tile+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Globalclocktile/2014.1219.1624.2797/neutral/1476VassilArabadjiev.Globalclocktile_2014.1219.1624.2797_neutral_~_4epssmbyxfjw2.appxbundle"
+}

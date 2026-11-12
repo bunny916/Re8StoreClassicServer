@@ -1,0 +1,18 @@
+{
+    "displayname":  "VLC for Windows 8",
+    "productType":  "app",
+    "category":  "Video \u0026 Entertainment",
+    "publisher":  "VideoLAN",
+    "copyright":  "© 2026 VideoLAN",
+    "description":  "VLC is probably the best open-source multimedia video player for the Windows operating system. VLC, once named VideoLan Client, is one of the most widely used media players on the market. A small, but powerful video platform, with an executable file under 40MB, yet has virtually illuminated the need for any codec download or added video plugins, as VLC supports 3GP, MKV, MPEG-2, AAC, DV Audio and many other file formats.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "10.3 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/20RkfsVm/vlcmetro.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=VLC for Windows 8+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=VLC for Windows 8+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=VLC for Windows 8+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/VLC%20For%20Windows%208/VideoLAN.VLCforWindows8_0.0.5.0_x86__paz6r1rewnh0a.appx"
+}
