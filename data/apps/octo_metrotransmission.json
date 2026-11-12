@@ -1,0 +1,18 @@
+{
+    "displayname":  "MetroTransmission",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Clement Lorteau",
+    "copyright":  "© 2026 Clement Lorteau",
+    "description":  "Trigger torrent downloads on your computers remotely!  With this app you can control the Transmission installations running on any devices on your network or on Internet (if you have configured your router accordingly). Open magnet links, torrent links or torrent files on your tablet, send it to your PC running Transmission, close your tablet. You\u0027re done, your PC will keep downloading it.        ( Note: this is not a Torrent downloader in itself; it\u0027s a remote control for Transmission, a free open source Torrent client compatible with multiple OSes. More details: http://www.tranmissionbt.com/",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.5 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/yFRhsZ1k/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=MetroTransmission+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=MetroTransmission+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=MetroTransmission+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Metro%20Transmission/0.9.0.4/neutral/4609ClementLorteau.MetroTransmission_0.9.0.4_neutral__1a64556jv6aee.appx"
+}

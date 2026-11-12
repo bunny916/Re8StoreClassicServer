@@ -1,0 +1,18 @@
+{
+    "displayname":  "Remote Desktop",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Connect to workplaces, etc!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://s1.mzstatic.com/us/r30/Purple4/v4/c4/ef/01/c4ef0183-9f7c-5401-35cd-3e06e26f3922/mzl.dmovntgu.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Remote Desktop (For Windows 8.0)+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Remote Desktop (For Windows 8.0)+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Remote Desktop (For Windows 8.0)+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/RemoteDesktop/6.2.9200.20523/neutral/Microsoft.RemoteDesktop_6.2.9200.20523_neutral__8wekyb3d8bbwe.Appx"
+}

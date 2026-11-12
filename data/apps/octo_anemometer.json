@@ -1,0 +1,18 @@
+{
+    "displayname":  "Anemometer",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Pockekai",
+    "copyright":  "© 2026 Pockekai",
+    "description":  "A virtual Anemometer and Weather. Additional: wind speed, temperature display, felt temperature, air humidity, dew point temperature, 4 day preview... Showing weather data: - Wind speed in different units - additional digital display in mb, hPa, Torr, psi or inchHG - Shows the name of the weather station resp. town - Temperature in ?C or ?F - felt temperature - humidity in % - Wind speed in km/h, MPH, kn, m/s or Bft - Wind direction - Date + time of the weather data - Data: Internet, online (a few bytes only) - 4 day preview - Barometer History - Moon phases - Ice Preview - Different Backgroun",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "5.9 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/VYycwT8c/download.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Anemometer+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Anemometer+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Anemometer+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Anemometer/1.0.0.0/Neutral/51962Pocketkai.Windmesser_1.0.0.0_neutral__9dxtxr87k76sp_v1.0.0.0_neutral.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "Cloud Notes",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "ALSEDI Group",
+    "copyright":  "© 2026 ALSEDI Group",
+    "description":  "Cloud Notes is a simple note taking application. You have list of text notes on the left, and selected note text on the right. You can add, delete, edit and change note colors.  All the changes are automatically synchronized across all your devices (logged in using same Live ID). Cloud Notes works great in Snapped mode, so you can keep all necessary information on the left or right side of your screen.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Zp52Nw3r/cloudnotes.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Cloud Notes+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Cloud Notes+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Cloud Notes+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Cloud%20Notes/1.2.0.195/neutral/45275ALSEDI.CloudNotes_1.2.0.195_neutral__btkmfz2rz47zw.appx"
+}

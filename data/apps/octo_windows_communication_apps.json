@@ -1,0 +1,18 @@
+{
+    "displayname":  "Windows Communication Apps",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "Windows Communications App bundle which contains Mail, Calendar, and People (Messages is not included)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "7.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/VcrM7Mz0/Icon-210215.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Windows Communication Apps+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Windows Communication Apps+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Windows Communication Apps+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Windows%20communication%20apps/17.5.9600.22013/x64/microsoft.windowscommunicationsapps_17.5.9600.22013_x64__8wekyb3d8bbwe.appx"
+}

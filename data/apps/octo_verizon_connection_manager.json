@@ -1,0 +1,18 @@
+{
+    "displayname":  "Verizon Connection Manager",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Verizon Wireless",
+    "copyright":  "© 2026 Verizon Wireless",
+    "description":  "The Verizon Connection Manager (specifically for Windows tablets/laptops) is a centralized application, often available on the Microsoft Store, that allows users to manage their Verizon Wireless mobile broadband connection. It provides a single interface to monitor network status, manage SIM settings, access My Verizon, and check for roaming charges.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.4 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/60Cj0pD1/logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Verizon Connection Manager+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Verizon Connection Manager+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Verizon Connection Manager+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Verizon%20Connection%20Manager/1.1.0.192/x64/VerizonWireless.VerizonConnectionManager_1.1.0.192_x64__40sg4y5zd4vfj.appx"
+}

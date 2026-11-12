@@ -1,0 +1,18 @@
+{
+    "displayname":  "ReWinStore",
+    "productType":  "app",
+    "category":  "Shopping",
+    "publisher":  "ReOpenGlebsur",
+    "copyright":  "© 2026 ReOpenGlebsur",
+    "description":  "ReWinStore Alternative App store wtih apps from 8Store and ReWork!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://files.catbox.moe/6014w0.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+3",
+    "downloadUri":  "https://raw.githubusercontent.com/OpenGlebsur/openglebsur.github.io/refs/heads/main/WinStore_1.0.0.8_AnyCPU.appx"
+}

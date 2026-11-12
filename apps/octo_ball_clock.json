@@ -1,0 +1,18 @@
+{
+    "displayname":  "Ball Clock",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "xdev.ch",
+    "copyright":  "© 2026 xdev.ch",
+    "description":  "A clock made of out of colorful balls. When the clock changes unused balls fall from down from their place and bounce on the bottom screen edge till they leave the screen.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "0.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/NbFTC6z/logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Ball Clock+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Ball Clock+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Ball Clock+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Ball%20Clock/1.0.0.3/neutral/40446xdev.ch.BallClock_1.0.0.3_neutral__0qky9119hp54c.appx"
+}

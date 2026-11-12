@@ -1,0 +1,18 @@
+{
+    "displayname":  "Cookie Clicker",
+    "productType":  "app",
+    "category":  "Simulation",
+    "publisher":  "Aerobit",
+    "copyright":  "Aerobit 2026",
+    "description":  "This is a unofficial port of the 2013 Cookie Clicker Classic. Cookie Clicker is a simple game where you click a giant cookie to bake more cookies and you can unlock thing in this game the game that can help you make more cookies. This game does not support snap resizing so it\u0027s highly recommended to play in full screen. For anyone who wants to play the original web version, go to https://orteil.dashnet.org/experiments/cookie/ to play the original one. This game also works offline so it\u0027s not webview based and it should work on the Surface RT.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/nqTmWN1M/ff85f6cb562e.png",
+    "pageimg1":  "https://i.ibb.co/tPQ4vc0q/cbda631c1cbf.png",
+    "pageimg2":  "https://i.ibb.co/tPQ4vc0q/cbda631c1cbf.png",
+    "pageimg3":  "https://i.ibb.co/tPQ4vc0q/cbda631c1cbf.png",
+    "downloadUri":  "https://pub-76483bffc908adfd099508bcb3306e84.r2.dev/1794002905_8be91781_Cookie_Clicker_0.1.2.5_AnyCPU_Debug.appx"
+}

@@ -1,0 +1,18 @@
+{
+    "displayname":  "T-Notes",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "TRC Software",
+    "copyright":  "2026 TRC Software",
+    "description":  "Meet T-Notes! One of the apps in the TRC-X suite of apps! Make simple notes, pin whats important, and even doodle some notes if you have a pen/stylus. You can even sync notes across your Windows computer and Windows Phone with T-Cloud (temporarily unavailable) The app is very customizable, with 10 different backgrounds and 2 animated background effects (rain and byte), you can make it look however you want!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/mV9KCmMV/ab7dfd4eb98e.png",
+    "pageimg1":  "https://i.ibb.co/B5sfLwsp/3c7cc25b2da5.png",
+    "pageimg2":  "https://i.ibb.co/9mc2cT6W/25342dc2915b.png",
+    "pageimg3":  "https://i.ibb.co/Dg73Jq8H/53b650de4f4c.png",
+    "downloadUri":  "https://pub-76483bffc908adfd099508bcb3306e84.r2.dev/1792370975_be496d62_T-Notes_RT.Windows_7.19.9600.0_AnyCPU_Debug.appx"
+}

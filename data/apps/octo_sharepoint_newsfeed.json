@@ -1,0 +1,18 @@
+{
+    "displayname":  "SharePoint Newsfeed",
+    "productType":  "app",
+    "category":  "Social",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "SharePoint Newsfeed lets you stay connected to your organization??s social pulse while on the go. You can easily navigate your feeds and interact with the conversations from SharePoint sites you are following.  (The SharePoint Newsfeed app works with SharePoint 2013 and the new SharePoint Online. Previous versions of SharePoint are not supported.)",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/BVfsPNjq/sharepointnewsfeed.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=SharePoint Newsfeed+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=SharePoint Newsfeed+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=SharePoint Newsfeed+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Microsoft%20Apps/Microsoft.SharePoint2013Newsfeed_16.0.2130.1050_x64__8wekyb3d8bbwe/Microsoft.SharePoint2013Newsfeed_16.0.2130.1050_x64__8wekyb3d8bbwe.Appx"
+}

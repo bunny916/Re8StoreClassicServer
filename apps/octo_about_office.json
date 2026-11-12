@@ -1,0 +1,18 @@
+{
+    "displayname":  "About Office",
+    "productType":  "app",
+    "category":  "Other",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "The Office Demo App to designed to help consumers understand the value of using Office on a Windows PC or Tablet, help consumers understand the various options of Office available to meet their needs, learn about what is new in Office and help consumers selected the right version of Office for them to purchase.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "56.2 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/Rp1mxd08/310x310-Logo-scale-100.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=About Office+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=About Office+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=About Office+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/About%20Office/2014.509.2047.1083/neutral/Microsoft.Demo.AboutOffice_2014.509.2047.1083_neutral_~_8wekyb3d8bbwe.AppxBundle"
+}

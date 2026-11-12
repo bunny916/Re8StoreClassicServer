@@ -1,0 +1,18 @@
+{
+    "displayname":  "My Server",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Microsoft Corporation",
+    "copyright":  "© 2026 Microsoft Corporation",
+    "description":  "My Server for Windows 8 is an application designed to help you keep seamlessly connected to your server resources through devices running Windows 8. With My Server, you can manage users, devices, alerts, and access shared files in Windows Server 2012 Essentials. In addition, files that you have recently accessed with My Server files continue to be available to you even when offline.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/s94Ms7cc/myserver2012r1.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=My Server 2012+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=My Server 2012+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=My Server 2012+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/My%20Server/1.0.0.0/x86/Microsoft.MyServer_1.0.0.0_x86__8wekyb3d8bbwe.appx"
+}

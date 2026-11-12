@@ -1,0 +1,18 @@
+{
+    "displayname":  "Facebook",
+    "productType":  "app",
+    "category":  "Social",
+    "publisher":  "Facebook, Inc.",
+    "copyright":  "",
+    "description":  "(App doesnt work ^^) Keeping up with your friends is easier than ever with the official Facebook app.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/d4M3JJ3x/d5b24d3209bd.png",
+    "pageimg1":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/facebook1.png",
+    "pageimg2":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/facebook2.png",
+    "pageimg3":  "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/facebook3.png",
+    "downloadUri":  "https://pub-76483bffc908adfd099508bcb3306e84.r2.dev/1793737037_e7182f43_Facebook.appxbundle"
+}

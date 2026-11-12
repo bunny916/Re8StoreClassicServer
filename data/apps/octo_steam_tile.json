@@ -1,0 +1,18 @@
+{
+    "displayname":  "Steam Tile",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Element26 Software",
+    "copyright":  "© 2026 Element26 Software",
+    "description":  "Steam Tile creates Live Tiles for your Steam games. Simply set your Steam ID and Steam Tile will list all your Steam games. Clicking on a tile will pin it to the start menu. If the game has Steam Achievements, you\u0027ll be able to see your progress directly on the Live Tile.",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "2.0 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/9mwMNCqM/Logo.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Steam Tile+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Steam Tile+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Steam Tile+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Steam%20Tile/1.1.2.0/x64/43266Element26Software.SteamTile_1.1.2.0_x64__2vng2mrd8a7zg.appx"
+}

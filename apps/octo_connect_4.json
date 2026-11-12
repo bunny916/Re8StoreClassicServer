@@ -1,0 +1,18 @@
+{
+    "displayname":  "Connect 4",
+    "productType":  "game",
+    "category":  "Games",
+    "publisher":  "Brian Anger",
+    "copyright":  "© 2026 Brian Anger",
+    "description":  "Brian Anger Test App, Play connect 4 with your friends!",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "1.7 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/RXrYfMz/IMG-2580.png",
+    "pageimg1":  "https://via.placeholder.com/800x450.png?text=Connect 4+Screenshot+1",
+    "pageimg2":  "https://via.placeholder.com/800x450.png?text=Connect 4+Screenshot+2",
+    "pageimg3":  "https://via.placeholder.com/800x450.png?text=Connect 4+Screenshot+3",
+    "downloadUri":  "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Games/Connect%204/1.0.0.0/Neutral/Microsoft.WindowsPhoneCCPService_1.0.0.0_neutral__8wekyb3d8bbwe.appx"
+}

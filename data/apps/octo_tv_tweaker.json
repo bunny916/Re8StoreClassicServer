@@ -1,0 +1,18 @@
+{
+    "displayname":  "TV Tweaker",
+    "productType":  "app",
+    "category":  "Utilities",
+    "publisher":  "Brendan Grant",
+    "copyright":  "© 2014 Brendan Grant",
+    "description":  "Did you know you can control some TV\u0027s without the remote? Many modern TVs and other home electronics devices expose services to the local network via UPnP (Universal Plug and Play) to allow for basic management of things such as brightness, contrast and volume. So long as your TV supports certain UPnP services and is on your home network, with this app... you can control these values from your phone! While useful for basic tweaking on your own set... it\u0027s also useful for having fun with friends. Why not excuse yourself to the bathroom for a moment and while gone, slowly lower the volume of th",
+    "mainStars":  "0",
+    "ratingNumber":  "0",
+    "ratingsCount":  "0",
+    "size":  "",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://i.ibb.co/fYQPyHCy/9b8906106798.png",
+    "pageimg1":  "https://i.ibb.co/m54B899j/56240bc14eb1.png",
+    "pageimg2":  "https://i.ibb.co/Rpc6wvsf/b33ef6070800.png",
+    "pageimg3":  "https://i.ibb.co/m54B899j/56240bc14eb1.png",
+    "downloadUri":  "https://pub-76483bffc908adfd099508bcb3306e84.r2.dev/1793815679_c60878cb_48861BrendanGrant.TVTweaker_1.1.12.0_neutral___9dz0c3wn4mg6e.appxbundle"
+}
