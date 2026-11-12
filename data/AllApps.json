@@ -543,7 +543,10 @@
             { "label": "octo_rock_fm", "uid": "ER_OCTO_ROCK_FM" },
             { "label": "octo_tails_jump_mushroom", "uid": "ER_OCTO_TAILS_JUMP_MUSHROOM" },
             { "label": "octo_mtc_hall_of_fame_english_version", "uid": "ER_OCTO_MTC_HALL_OF_FAME_ENGLISH_VERSION" },
-            { "label": "octo_chrome_metro", "uid": "ER_OCTO_CHROME_METRO" }
+            { "label": "octo_chrome_metro", "uid": "ER_OCTO_CHROME_METRO" },
+            { "label": "rework_r12_patched", "uid": "RW_R12_PATCHED" },
+            { "label": "rework_r13_beta_patched", "uid": "RW_R13_BETA_PATCHED" },
+            { "label": "rework_r13_update1", "uid": "RW_R13_UPDATE1" }
           ]
         },
         "utility_peak": {

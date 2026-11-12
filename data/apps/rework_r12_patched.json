@@ -1,0 +1,28 @@
+{
+    "displayname":  "Rework Store (Release 12 Patched)",
+    "productType":  "app",
+    "category":  "Store Revival",
+    "publisher":  "CN=Ibrahim",
+    "copyright":  "© 2026 Rework \u0026 Ibrahim",
+    "description":  "Windows 8.1 Modern Store restoration project - Release 12 Patched.",
+    "mainStars":  "5",
+    "ratingNumber":  "5.0",
+    "ratingsCount":  "18,000",
+    "size":  "1.46 MB",
+    "ageRating":  "Everyone",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+    "pageimg1":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+    "pageimg2":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+    "pageimg3":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease12_Patched.appx",
+    "app_identity":  {
+                         "publisher":  "CN=Ibrahim",
+                         "description":  "Windows 8.1 Modern Store restoration project - Release 12 Patched.",
+                         "displayname":  "Rework Store (Release 12 Patched)"
+                     },
+    "deployment":  {
+                       "filesize":  "1.46 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreClassicServer/assets/icons/rework_r12_patched.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreClassicServer/appxs/Rework.ReworkStoreRelease12_Patched.appx"
+                   }
+}
